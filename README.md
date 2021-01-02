@@ -1,1 +1,1 @@
-# Stock-price-prediction using stacked LSTM on Apple stock price dataset
+# Stock price prediction using stacked LSTM on Apple's price dataset.
